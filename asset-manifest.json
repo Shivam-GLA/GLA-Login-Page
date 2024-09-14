@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gla-honours-portal/static/css/main.2abf7cfe.css",
-    "main.js": "/gla-honours-portal/static/js/main.779e21d8.js",
-    "static/js/453.794e7368.chunk.js": "/gla-honours-portal/static/js/453.794e7368.chunk.js",
-    "static/media/gla-logo.png": "/gla-honours-portal/static/media/gla-logo.ceddfff162f298117876.png",
-    "index.html": "/gla-honours-portal/index.html",
-    "main.2abf7cfe.css.map": "/gla-honours-portal/static/css/main.2abf7cfe.css.map",
-    "main.779e21d8.js.map": "/gla-honours-portal/static/js/main.779e21d8.js.map",
-    "453.794e7368.chunk.js.map": "/gla-honours-portal/static/js/453.794e7368.chunk.js.map"
+    "main.css": "/static/css/main.2abf7cfe.css",
+    "main.js": "/static/js/main.33098210.js",
+    "static/js/453.d0074ae6.chunk.js": "/static/js/453.d0074ae6.chunk.js",
+    "static/media/gla-logo.png": "/static/media/gla-logo.ceddfff162f298117876.png",
+    "index.html": "/index.html",
+    "main.2abf7cfe.css.map": "/static/css/main.2abf7cfe.css.map",
+    "main.33098210.js.map": "/static/js/main.33098210.js.map",
+    "453.d0074ae6.chunk.js.map": "/static/js/453.d0074ae6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2abf7cfe.css",
-    "static/js/main.779e21d8.js"
+    "static/js/main.33098210.js"
   ]
 }
